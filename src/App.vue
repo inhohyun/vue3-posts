@@ -4,6 +4,7 @@ import TheView from '@/layouts/TheView.vue';
 </script>
 
 <template>
+  <router-link to="/about">123</router-link>
   <TheHeader />
   <TheView />
 </template>
